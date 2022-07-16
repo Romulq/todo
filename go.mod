@@ -1,3 +1,3 @@
-module todoApp
+module todo
 
 go 1.15
